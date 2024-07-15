@@ -1,0 +1,26 @@
+.coinbox-container{
+    width:20%;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: space-around;
+    gap: 10px;
+    background: #ffffff;
+    border-radius: 10px;
+    padding: 1em;
+    color: rgb(22, 22, 22);
+    
+}
+.coinbox-amount{
+    font-size: 1.2em;
+    color:"black"
+}
+.coinbox-image{
+    width: 70px;
+    height: 60px;
+}
+
+.coinbox-image img{
+    width: 80%;
+    height: 90%;
+}
